@@ -1,8 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react"; //react API
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
+  // This function will return a container with the following react elements
   return (
     <div className="App">
       <header className="App-header">
