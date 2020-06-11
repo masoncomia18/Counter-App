@@ -15,7 +15,7 @@ class Counter extends Component {
           onClick={() => this.props.onDelete(this.props.counter.id)}
           className="btn btn-danger sml m-2"
         >
-          Delete
+          Remove
         </button>
       </div>
     );
